@@ -6,6 +6,3 @@
 
 ## Production
 Built with HTML, SASS And Javascript
-
-## Deployment
-https://mohitsaini-tip-calculator.netlify.app/
